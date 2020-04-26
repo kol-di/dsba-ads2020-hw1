@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dmitrijkolobaev/se/Assignemnets/Multiplication_complexity/backend/Multiplicator.h
+Number.h
+/Users/dmitrijkolobaev/se/Assignemnets/Multiplication_complexity/backend/Number.h
+
+/Users/dmitrijkolobaev/se/Assignemnets/Multiplication_complexity/backend/Number.h
+iostream
+-
+string
+-
+cstdlib
+-
+algorithm
+-
+
+/Users/dmitrijkolobaev/se/Assignemnets/Multiplication_complexity/backend/main.cpp
+Number.h
+/Users/dmitrijkolobaev/se/Assignemnets/Multiplication_complexity/backend/Number.h
+Multiplicator.h
+/Users/dmitrijkolobaev/se/Assignemnets/Multiplication_complexity/backend/Multiplicator.h
+ctime
+-
+fstream
+-
+
